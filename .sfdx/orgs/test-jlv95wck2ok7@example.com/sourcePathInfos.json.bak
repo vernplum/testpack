@@ -1,0 +1,381 @@
+[
+    [
+        "/Users/equek/dev/testpack/force-app",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1542691644901,
+            "changeTime": 1542691644901,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1542691644901,
+            "changeTime": 1542691644901,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1542694692710,
+            "changeTime": 1542694692710,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1542694016727,
+            "changeTime": 1542694016727,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura/Demo",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura/Demo",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1542694016733,
+            "changeTime": 1542694016733,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.auradoc",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1542694016733,
+            "changeTime": 1542694016733,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.cmp",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.cmp",
+            "isDirectory": false,
+            "size": 37,
+            "modifiedTime": 1542694016727,
+            "changeTime": 1542694016727,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1542694016729,
+            "changeTime": 1542694016729,
+            "contentHash": "908257bc05e5ea58368667d2c873c9114321f516",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.css",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1542694016731,
+            "changeTime": 1542694016731,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.design",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1542694016734,
+            "changeTime": 1542694016734,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.svg",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/Demo.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1542694016732,
+            "changeTime": 1542694016732,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/DemoController.js",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/DemoController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1542694016729,
+            "changeTime": 1542694016729,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/DemoHelper.js",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/DemoHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1542694016730,
+            "changeTime": 1542694016730,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/DemoRenderer.js",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/aura/Demo/DemoRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1542694016732,
+            "changeTime": 1542694016732,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack",
+        {
+            "sourcePath": "/Users/equek/dev/testpack",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1542694066400,
+            "changeTime": 1542694066400,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/objects/TestObj__c/TestObj__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/objects/TestObj__c/TestObj__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2015,
+            "modifiedTime": 1542694692682,
+            "changeTime": 1542694692682,
+            "contentHash": "48626e967305d1eef2654de0adddcdb9991ce38f"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/objects/TestObj__c/fields/TextField__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/objects/TestObj__c/fields/TextField__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 364,
+            "modifiedTime": 1542694692684,
+            "changeTime": 1542694692684,
+            "contentHash": "33b9da07f7a29f9b661ed72c5cad51932879814c"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/layouts/TestObj__c-TestObj Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/layouts/TestObj__c-TestObj Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2086,
+            "modifiedTime": 1542694692694,
+            "changeTime": 1542694692694,
+            "contentHash": "39864cf0c91920182604ad96949b9113efb73bae"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18452,
+            "modifiedTime": 1542694692718,
+            "changeTime": 1542694692718,
+            "contentHash": "3681246f2f6bada4a77110e4574ca1ec739fe0d5"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4583,
+            "modifiedTime": 1542694692726,
+            "changeTime": 1542694692726,
+            "contentHash": "36d56acd7bd20b70396845ad75012dcd781e7f64"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4583,
+            "modifiedTime": 1542694692731,
+            "changeTime": 1542694692731,
+            "contentHash": "36d56acd7bd20b70396845ad75012dcd781e7f64"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4921,
+            "modifiedTime": 1542694692736,
+            "changeTime": 1542694692736,
+            "contentHash": "d53588322a7d89343f4e00ea60e00eb7bdfb4222"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/objects/TestObj__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/objects/TestObj__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542694692683,
+            "changeTime": 1542694692683,
+            "contentHash": "351ba8952bed009c92a436d78efbb65d6898c632"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542694692677,
+            "changeTime": 1542694692677,
+            "contentHash": "50057821b0043519e4c43e84d05849c0935e4950"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/objects/TestObj__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/objects/TestObj__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542694692684,
+            "changeTime": 1542694692684,
+            "contentHash": "a74659ad98d3dfe7df197f05fe37c643143061a0"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542694692694,
+            "changeTime": 1542694692694,
+            "contentHash": "8a683579f9a2d16765d9b0b984d0f32f179ee133"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1542694692735,
+            "changeTime": 1542694692735,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]

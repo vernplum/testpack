@@ -1,0 +1,464 @@
+[
+    [
+        "/Users/equek/dev/testpack",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1542696065695,
+            "changeTime": 1542696065695,
+            "isWorkspace": true,
+            "contentHash": "7bc6a838ac282cdbf3554d0e9167fa1ad2799ea6"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/equek/dev/testpack/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18452,
+            "modifiedTime": 1542694692718,
+            "changeTime": 1542694692718,
+            "contentHash": "3681246f2f6bada4a77110e4574ca1ec739fe0d5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542695203682,
+            "changeTime": 1542695203682,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-objects/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-objects/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542695208698,
+            "changeTime": 1542695208698,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-objects/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-objects/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1542695695642,
+            "changeTime": 1542695695642,
+            "contentHash": "561d70d2e67e11abdda32f0b845e4236237bcb6e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-objects/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-objects/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542694692694,
+            "changeTime": 1542695195042,
+            "contentHash": "8a683579f9a2d16765d9b0b984d0f32f179ee133",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-objects/main/default/layouts/TestObj__c-TestObj Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-objects/main/default/layouts/TestObj__c-TestObj Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2086,
+            "modifiedTime": 1542694692694,
+            "changeTime": 1542695195042,
+            "contentHash": "39864cf0c91920182604ad96949b9113efb73bae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-objects/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-objects/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542694692677,
+            "changeTime": 1542695195041,
+            "contentHash": "50057821b0043519e4c43e84d05849c0935e4950",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-objects/main/default/objects/TestObj__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-objects/main/default/objects/TestObj__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542694692683,
+            "changeTime": 1542695195040,
+            "contentHash": "351ba8952bed009c92a436d78efbb65d6898c632",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-objects/main/default/objects/TestObj__c/TestObj__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-objects/main/default/objects/TestObj__c/TestObj__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2015,
+            "modifiedTime": 1542694692682,
+            "changeTime": 1542695195039,
+            "contentHash": "48626e967305d1eef2654de0adddcdb9991ce38f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-objects/main/default/objects/TestObj__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-objects/main/default/objects/TestObj__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542694692684,
+            "changeTime": 1542695195040,
+            "contentHash": "a74659ad98d3dfe7df197f05fe37c643143061a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-objects/main/default/objects/TestObj__c/fields/TextField__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-objects/main/default/objects/TestObj__c/fields/TextField__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 364,
+            "modifiedTime": 1542694692684,
+            "changeTime": 1542695195040,
+            "contentHash": "33b9da07f7a29f9b661ed72c5cad51932879814c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542695194961,
+            "changeTime": 1542695194961,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1542695203678,
+            "changeTime": 1542695203678,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1542695695642,
+            "changeTime": 1542695695642,
+            "contentHash": "7721d7a12d419373ac79f6ad7c129417e5d155a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1542694016727,
+            "changeTime": 1542695191407,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1542694016733,
+            "changeTime": 1542695191407,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1542694016733,
+            "changeTime": 1542695191407,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1542694016727,
+            "changeTime": 1542695191388,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1542694016729,
+            "changeTime": 1542695191404,
+            "contentHash": "908257bc05e5ea58368667d2c873c9114321f516",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1542694016731,
+            "changeTime": 1542695191392,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1542694016734,
+            "changeTime": 1542695191401,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/Demo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1542694016732,
+            "changeTime": 1542695191390,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/DemoController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/DemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1542694016729,
+            "changeTime": 1542695191396,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/DemoHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/DemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1542694016730,
+            "changeTime": 1542695191402,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/DemoRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/aura/Demo/DemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1542694016732,
+            "changeTime": 1542695191397,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1542694692735,
+            "changeTime": 1542695695642,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18452,
+            "modifiedTime": 1542694692718,
+            "changeTime": 1542695195043,
+            "contentHash": "3681246f2f6bada4a77110e4574ca1ec739fe0d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4583,
+            "modifiedTime": 1542694692731,
+            "changeTime": 1542695195047,
+            "contentHash": "36d56acd7bd20b70396845ad75012dcd781e7f64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4583,
+            "modifiedTime": 1542694692726,
+            "changeTime": 1542695195044,
+            "contentHash": "36d56acd7bd20b70396845ad75012dcd781e7f64",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/equek/dev/testpack/testpack-lc/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/equek/dev/testpack/testpack-lc/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4921,
+            "modifiedTime": 1542694692736,
+            "changeTime": 1542695195046,
+            "contentHash": "d53588322a7d89343f4e00ea60e00eb7bdfb4222",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ]
+]

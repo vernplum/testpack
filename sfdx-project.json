@@ -1,0 +1,27 @@
+{
+  "packageDirectories": [
+    {
+            "path": "./testpack-objects",
+            "package": "testpack-objects",
+            "versionName": "testpack-objects",
+            "versionNumber": "1.0.0.NEXT",
+            "default": false
+        },
+        {
+            "path": "./testpack-lc",
+            "package": "testpack-ls",
+            "versionName": "testpack-lc",
+            "versionNumber": "1.0.0.NEXT",
+            "default": true,
+            "dependencies": [
+                {
+                    "package": "testpack-objects",
+                    "versionNumber": "1.0.0.LATEST"
+                }
+            ]
+        }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "44.0"
+}
